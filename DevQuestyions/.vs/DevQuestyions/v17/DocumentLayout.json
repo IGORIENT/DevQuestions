@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B390375-C7F7-4758-A3B6-587F43191354}|src\\DevQuestions.Web\\DevQuestions.Web.csproj|c:\\users\\ibagaev\\source\\repos\\devquestions\\devquestyions\\src\\devquestions.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B390375-C7F7-4758-A3B6-587F43191354}|src\\DevQuestions.Web\\DevQuestions.Web.csproj|solutionrelative:src\\devquestions.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B390375-C7F7-4758-A3B6-587F43191354}|src\\DevQuestions.Web\\DevQuestions.Web.csproj|c:\\users\\ibagaev\\source\\repos\\devquestions\\devquestyions\\src\\devquestions.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B390375-C7F7-4758-A3B6-587F43191354}|src\\DevQuestions.Web\\DevQuestions.Web.csproj|solutionrelative:src\\devquestions.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F426EDAD-41DE-4119-AE47-50D419C4259A}|src\\DevQuestions.Presenters\\DevQuestions.Presenters.csproj|c:\\users\\ibagaev\\source\\repos\\devquestions\\devquestyions\\src\\devquestions.presenters\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F426EDAD-41DE-4119-AE47-50D419C4259A}|src\\DevQuestions.Presenters\\DevQuestions.Presenters.csproj|solutionrelative:src\\devquestions.presenters\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8C86FB-5A6D-4900-A30D-A6534789C4BE}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|c:\\users\\ibagaev\\source\\repos\\devquestions\\devquestyions\\src\\devquestions.domain\\questions\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8C86FB-5A6D-4900-A30D-A6534789C4BE}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|solutionrelative:src\\devquestions.domain\\questions\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B390375-C7F7-4758-A3B6-587F43191354}|src\\DevQuestions.Web\\DevQuestions.Web.csproj|c:\\users\\ibagaev\\source\\repos\\devquestions\\devquestyions\\src\\devquestions.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B390375-C7F7-4758-A3B6-587F43191354}|src\\DevQuestions.Web\\DevQuestions.Web.csproj|solutionrelative:src\\devquestions.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8C86FB-5A6D-4900-A30D-A6534789C4BE}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|c:\\users\\ibagaev\\source\\repos\\devquestions\\devquestyions\\src\\devquestions.domain\\questions\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8C86FB-5A6D-4900-A30D-A6534789C4BE}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|solutionrelative:src\\devquestions.domain\\questions\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +59,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\DevQuestions.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\DevQuestions.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-15T15:03:13.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuestionsController.cs",
+              "DocumentMoniker": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Presenters\\QuestionsController.cs",
+              "RelativeDocumentMoniker": "src\\DevQuestions.Presenters\\QuestionsController.cs",
+              "ToolTip": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Presenters\\QuestionsController.cs",
+              "RelativeToolTip": "src\\DevQuestions.Presenters\\QuestionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:25:17.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\DevQuestions.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Web\\appsettings.json",
+              "RelativeToolTip": "src\\DevQuestions.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-15T12:12:35.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Web\\Program.cs",
+              "RelativeDocumentMoniker": "src\\DevQuestions.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Web\\Program.cs",
+              "RelativeToolTip": "src\\DevQuestions.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:05:23.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Domain\\Questions\\Answer.cs",
+              "RelativeDocumentMoniker": "src\\DevQuestions.Domain\\Questions\\Answer.cs",
+              "ToolTip": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Domain\\Questions\\Answer.cs",
+              "RelativeToolTip": "src\\DevQuestions.Domain\\Questions\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:54:33.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Domain\\Questions\\Question.cs",
+              "RelativeDocumentMoniker": "src\\DevQuestions.Domain\\Questions\\Question.cs",
+              "ToolTip": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Domain\\Questions\\Question.cs",
+              "RelativeToolTip": "src\\DevQuestions.Domain\\Questions\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T13:06:45.001Z",
+              "EditorCaption": ""
             }
           ]
         }
