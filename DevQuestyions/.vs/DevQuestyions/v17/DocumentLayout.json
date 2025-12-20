@@ -1,30 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\",
+  "WorkspaceRootPath": "C:\\Users\\igorb\\source\\repos\\DevQuestions\\DevQuestyions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B390375-C7F7-4758-A3B6-587F43191354}|src\\DevQuestions.Web\\DevQuestions.Web.csproj|c:\\users\\ibagaev\\source\\repos\\devquestions\\devquestyions\\src\\devquestions.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2B390375-C7F7-4758-A3B6-587F43191354}|src\\DevQuestions.Web\\DevQuestions.Web.csproj|solutionrelative:src\\devquestions.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u04301{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|C:\\Users\\igorb\\source\\repos\\DevQuestions\\DevQuestyions\\Solution Items\\directory.build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u04301{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|solutionrelative:Solution Items\\directory.build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B390375-C7F7-4758-A3B6-587F43191354}|src\\DevQuestions.Web\\DevQuestions.Web.csproj|c:\\users\\ibagaev\\source\\repos\\devquestions\\devquestyions\\src\\devquestions.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2B390375-C7F7-4758-A3B6-587F43191354}|src\\DevQuestions.Web\\DevQuestions.Web.csproj|solutionrelative:src\\devquestions.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F426EDAD-41DE-4119-AE47-50D419C4259A}|src\\DevQuestions.Presenters\\DevQuestions.Presenters.csproj|c:\\users\\igorb\\source\\repos\\devquestions\\devquestyions\\src\\devquestions.presenters\\devquestions.presenters.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F426EDAD-41DE-4119-AE47-50D419C4259A}|src\\DevQuestions.Presenters\\DevQuestions.Presenters.csproj|solutionrelative:src\\devquestions.presenters\\devquestions.presenters.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F426EDAD-41DE-4119-AE47-50D419C4259A}|src\\DevQuestions.Presenters\\DevQuestions.Presenters.csproj|c:\\users\\ibagaev\\source\\repos\\devquestions\\devquestyions\\src\\devquestions.presenters\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F426EDAD-41DE-4119-AE47-50D419C4259A}|src\\DevQuestions.Presenters\\DevQuestions.Presenters.csproj|c:\\users\\igorb\\source\\repos\\devquestions\\devquestyions\\src\\devquestions.presenters\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F426EDAD-41DE-4119-AE47-50D419C4259A}|src\\DevQuestions.Presenters\\DevQuestions.Presenters.csproj|solutionrelative:src\\devquestions.presenters\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE8C86FB-5A6D-4900-A30D-A6534789C4BE}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|c:\\users\\ibagaev\\source\\repos\\devquestions\\devquestyions\\src\\devquestions.domain\\questions\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE8C86FB-5A6D-4900-A30D-A6534789C4BE}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|solutionrelative:src\\devquestions.domain\\questions\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B390375-C7F7-4758-A3B6-587F43191354}|src\\DevQuestions.Web\\DevQuestions.Web.csproj|c:\\users\\ibagaev\\source\\repos\\devquestions\\devquestyions\\src\\devquestions.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B390375-C7F7-4758-A3B6-587F43191354}|src\\DevQuestions.Web\\DevQuestions.Web.csproj|c:\\users\\igorb\\source\\repos\\devquestions\\devquestyions\\src\\devquestions.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B390375-C7F7-4758-A3B6-587F43191354}|src\\DevQuestions.Web\\DevQuestions.Web.csproj|solutionrelative:src\\devquestions.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE8C86FB-5A6D-4900-A30D-A6534789C4BE}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|c:\\users\\ibagaev\\source\\repos\\devquestions\\devquestyions\\src\\devquestions.domain\\questions\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE8C86FB-5A6D-4900-A30D-A6534789C4BE}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|solutionrelative:src\\devquestions.domain\\questions\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE8C86FB-5A6D-4900-A30D-A6534789C4BE}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|c:\\users\\igorb\\source\\repos\\devquestions\\devquestyions\\src\\devquestions.domain\\tags\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8C86FB-5A6D-4900-A30D-A6534789C4BE}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|solutionrelative:src\\devquestions.domain\\tags\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "directory.build.props",
+              "DocumentMoniker": "C:\\Users\\igorb\\source\\repos\\DevQuestions\\DevQuestyions\\Solution Items\\directory.build.props",
+              "RelativeDocumentMoniker": "Solution Items\\directory.build.props",
+              "ToolTip": "C:\\Users\\igorb\\source\\repos\\DevQuestions\\DevQuestyions\\Solution Items\\directory.build.props",
+              "RelativeToolTip": "Solution Items\\directory.build.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-20T11:58:25.44Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
@@ -57,85 +66,55 @@
               "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Web\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "src\\DevQuestions.Web\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Web\\Properties\\launchSettings.json",
-              "RelativeToolTip": "src\\DevQuestions.Web\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-15T15:03:13.204Z",
+              "DocumentIndex": 1,
+              "Title": "DevQuestions.Presenters",
+              "DocumentMoniker": "C:\\Users\\igorb\\Source\\Repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Presenters\\DevQuestions.Presenters.csproj",
+              "RelativeDocumentMoniker": "src\\DevQuestions.Presenters\\DevQuestions.Presenters.csproj",
+              "ToolTip": "C:\\Users\\igorb\\Source\\Repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Presenters\\DevQuestions.Presenters.csproj",
+              "RelativeToolTip": "src\\DevQuestions.Presenters\\DevQuestions.Presenters.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-20T11:55:32.33Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "QuestionsController.cs",
-              "DocumentMoniker": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Presenters\\QuestionsController.cs",
+              "DocumentMoniker": "C:\\Users\\igorb\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Presenters\\QuestionsController.cs",
               "RelativeDocumentMoniker": "src\\DevQuestions.Presenters\\QuestionsController.cs",
-              "ToolTip": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Presenters\\QuestionsController.cs",
+              "ToolTip": "C:\\Users\\igorb\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Presenters\\QuestionsController.cs",
               "RelativeToolTip": "src\\DevQuestions.Presenters\\QuestionsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T12:25:17.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\DevQuestions.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Web\\appsettings.json",
-              "RelativeToolTip": "src\\DevQuestions.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-15T12:12:35.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Web\\Program.cs",
-              "RelativeDocumentMoniker": "src\\DevQuestions.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Web\\Program.cs",
-              "RelativeToolTip": "src\\DevQuestions.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T12:05:23.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Answer.cs",
-              "DocumentMoniker": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Domain\\Questions\\Answer.cs",
-              "RelativeDocumentMoniker": "src\\DevQuestions.Domain\\Questions\\Answer.cs",
-              "ToolTip": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Domain\\Questions\\Answer.cs",
-              "RelativeToolTip": "src\\DevQuestions.Domain\\Questions\\Answer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T09:54:33.172Z",
+              "WhenOpened": "2025-12-20T10:30:58.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Question.cs",
-              "DocumentMoniker": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Domain\\Questions\\Question.cs",
-              "RelativeDocumentMoniker": "src\\DevQuestions.Domain\\Questions\\Question.cs",
-              "ToolTip": "C:\\Users\\ibagaev\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Domain\\Questions\\Question.cs",
-              "RelativeToolTip": "src\\DevQuestions.Domain\\Questions\\Question.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\igorb\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Web\\Program.cs",
+              "RelativeDocumentMoniker": "src\\DevQuestions.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\igorb\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Web\\Program.cs",
+              "RelativeToolTip": "src\\DevQuestions.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T13:06:45.001Z",
+              "WhenOpened": "2025-12-20T10:11:16.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\igorb\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Domain\\Tags\\Tag.cs",
+              "RelativeDocumentMoniker": "src\\DevQuestions.Domain\\Tags\\Tag.cs",
+              "ToolTip": "C:\\Users\\igorb\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Domain\\Tags\\Tag.cs",
+              "RelativeToolTip": "src\\DevQuestions.Domain\\Tags\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T10:01:13.348Z",
               "EditorCaption": ""
             }
           ]
