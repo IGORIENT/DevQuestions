@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\igorb\\source\\repos\\DevQuestions\\DevQuestyions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u04301{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|C:\\Users\\igorb\\source\\repos\\DevQuestions\\DevQuestyions\\Solution Items\\directory.build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u04301{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|solutionrelative:Solution Items\\directory.build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F426EDAD-41DE-4119-AE47-50D419C4259A}|src\\DevQuestions.Presenters\\DevQuestions.Presenters.csproj|c:\\users\\igorb\\source\\repos\\devquestions\\devquestyions\\src\\devquestions.presenters\\devquestions.presenters.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F426EDAD-41DE-4119-AE47-50D419C4259A}|src\\DevQuestions.Presenters\\DevQuestions.Presenters.csproj|solutionrelative:src\\devquestions.presenters\\devquestions.presenters.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u04301{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|C:\\Users\\igorb\\source\\repos\\DevQuestions\\DevQuestyions\\directory.build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u04301{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|solutionrelative:directory.build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F426EDAD-41DE-4119-AE47-50D419C4259A}|src\\DevQuestions.Presenters\\DevQuestions.Presenters.csproj|c:\\users\\igorb\\source\\repos\\devquestions\\devquestyions\\src\\devquestions.presenters\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,21 +26,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "directory.build.props",
-              "DocumentMoniker": "C:\\Users\\igorb\\source\\repos\\DevQuestions\\DevQuestyions\\Solution Items\\directory.build.props",
-              "RelativeDocumentMoniker": "Solution Items\\directory.build.props",
-              "ToolTip": "C:\\Users\\igorb\\source\\repos\\DevQuestions\\DevQuestyions\\Solution Items\\directory.build.props",
-              "RelativeToolTip": "Solution Items\\directory.build.props",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-12-20T11:58:25.44Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
@@ -67,33 +50,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DevQuestions.Presenters",
-              "DocumentMoniker": "C:\\Users\\igorb\\Source\\Repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Presenters\\DevQuestions.Presenters.csproj",
-              "RelativeDocumentMoniker": "src\\DevQuestions.Presenters\\DevQuestions.Presenters.csproj",
-              "ToolTip": "C:\\Users\\igorb\\Source\\Repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Presenters\\DevQuestions.Presenters.csproj",
-              "RelativeToolTip": "src\\DevQuestions.Presenters\\DevQuestions.Presenters.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-20T11:55:32.33Z",
+              "DocumentIndex": 0,
+              "Title": "directory.build.props",
+              "DocumentMoniker": "C:\\Users\\igorb\\source\\repos\\DevQuestions\\DevQuestyions\\directory.build.props",
+              "RelativeDocumentMoniker": "directory.build.props",
+              "ToolTip": "C:\\Users\\igorb\\source\\repos\\DevQuestions\\DevQuestyions\\directory.build.props",
+              "RelativeToolTip": "directory.build.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-20T12:08:35.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "QuestionsController.cs",
               "DocumentMoniker": "C:\\Users\\igorb\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Presenters\\QuestionsController.cs",
               "RelativeDocumentMoniker": "src\\DevQuestions.Presenters\\QuestionsController.cs",
               "ToolTip": "C:\\Users\\igorb\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Presenters\\QuestionsController.cs",
               "RelativeToolTip": "src\\DevQuestions.Presenters\\QuestionsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-20T10:30:58.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\igorb\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Web\\Program.cs",
               "RelativeDocumentMoniker": "src\\DevQuestions.Web\\Program.cs",
@@ -106,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Tag.cs",
               "DocumentMoniker": "C:\\Users\\igorb\\source\\repos\\DevQuestions\\DevQuestyions\\src\\DevQuestions.Domain\\Tags\\Tag.cs",
               "RelativeDocumentMoniker": "src\\DevQuestions.Domain\\Tags\\Tag.cs",
