@@ -13,8 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevQuestions.Presenters", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
 	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
 		directory.build.props = directory.build.props
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevQuestions.Contracts", "src\DevQuestions.Contracts\DevQuestions.Contracts.csproj", "{62CA88EE-846C-4335-B79F-87735E303E31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -34,6 +37,10 @@ Global
 		{F426EDAD-41DE-4119-AE47-50D419C4259A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F426EDAD-41DE-4119-AE47-50D419C4259A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F426EDAD-41DE-4119-AE47-50D419C4259A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62CA88EE-846C-4335-B79F-87735E303E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62CA88EE-846C-4335-B79F-87735E303E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62CA88EE-846C-4335-B79F-87735E303E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62CA88EE-846C-4335-B79F-87735E303E31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
