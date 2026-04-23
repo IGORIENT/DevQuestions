@@ -5,7 +5,7 @@ namespace DevQuestions.Presenters
 {
     [ApiController]
     [Route("[controller]")]
-    public class QuestionsController : ControllerBase
+    public class QuestionsController : ControllerBase // маршур к этому контроллеру будет "PUT /questions"
     {
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] CreateQuestionDto request, CancellationToken cancellationToken)
